@@ -1,0 +1,9 @@
+Package: me.minhton.cleanartwork
+Name: CleanArtwork
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simple tweak to remove the now-playing app icon from the music artwork on iOS 14.2 and later.
+Maintainer: MinhTon
+Author: MinhTon
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.2)
